@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tapesh Vasisth | Choubay Ji Karauli Vale
+- 👋 Hi, I’m Tapesh Vasisth | Choubay Ji | Karauli 
 - 🎯 My User Name is @SoftwareEngineerTapeshVasisth
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning New Technology that relate to Web Development
-- 💞️ I’m looking to collaborate on Quality Analyst And Web Development
+- 👀 I’m interested in Development of Different Types of Technology
+- 🌱 I’m currently learning New Technology that relate to AI Development
+- 💞️ I’m looking to collaborate on Quality Analyst And Web/App Development
 - 📫 How to reach me - mail -) tapesh554@gmail.com & bcsoftware@yahoo.com
 
 
@@ -10,19 +10,27 @@
 
 🛡️🛡️🛡️🛡️🛡️🛡️🛡️
 
-👉🏻📍Owner | TWorldSoftware Company
+👉🏻📍Owner | TWorldSoftware Pvt Ltd Company
 
-👉📍Ceo | Tech98ProjectHouse
+👉📍Director/Manager | Tech98ProjectHouse
 
-👉🏻📍Admin | Tech98Hours
+👉🏻📍CEO | Tech98Hours
 
-👉📍Virus Developer | Tech Browser
 
-👉🏻📍Data Analyst | Web Developer
+
+👉📍Virus Developer | Cyber Security Expert
+
+👉🏻📍Data Scientist | Business Analyst
+
+👉📍Web Developer | Graphics Designer
+
+👉🏻📍App Developer | Extension Tester
 
 👉📍Seo Expert | Blogger
 
-👉🏻📍Graphics Designer | Coder
+👉🏻📍Digital Marketer | Influencer
+
+👉📍Tech-Support Enginner | Help-Desk Executive
 
 🛡️🛡️🛡️🛡️🛡️🛡️🛡️
 
@@ -128,3 +136,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwareengineertapeshvasisth&" alt="softwareengineertapeshvasisth" /></p><br>
+
+
+
+
+
+
+<a href="https://app.daily.dev/tech98hours"><img src="https://api.daily.dev/devcards/1a4153d549bf491dba00b43a51475d5d.png?r=msq" width="400" alt="Tech98Hours Unique Tech Facts By Tapesh Vasisth's Dev Card"/></a>
